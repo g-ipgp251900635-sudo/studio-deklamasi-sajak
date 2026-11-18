@@ -6,8 +6,8 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    // Gunakan base relatif supaya aplikasi mudah diterbitkan di GitHub Pages (subpath) atau mana-mana pelayan statik
-    base: './',
+    // Laluan asas untuk penerbitan GitHub Pages di https://g-ipgp251900635-sudo.github.io/studio-deklamasi-sajak/
+    base: '/studio-deklamasi-sajak/',
     plugins: [
       react(),
       tailwindcss(),

@@ -1,0 +1,6 @@
+{
+  "name": "Studio Deklamasi Sajak",
+  "description": "Laman pendidikan interaktif bertema tradisional Melayu untuk murid sekolah rendah berlatih dan merakam deklamasi sajak Bahasa Melayu.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
